@@ -37,3 +37,8 @@ config.rst
 
 Bike-Sharing-Dataset/*
 
+# Ignore exports
+
+export/*
+!export/.gitkeep
+
